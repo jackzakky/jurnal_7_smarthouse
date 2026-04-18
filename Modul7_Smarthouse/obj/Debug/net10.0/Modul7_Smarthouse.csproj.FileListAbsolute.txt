@@ -1,0 +1,15 @@
+D:\temp\Modul7_Smarthouse\Modul7_Smarthouse\obj\Debug\net10.0\Modul7_Smarthouse.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\Modul7_Smarthouse\Modul7_Smarthouse\obj\Debug\net10.0\Modul7_Smarthouse.AssemblyInfoInputs.cache
+D:\temp\Modul7_Smarthouse\Modul7_Smarthouse\obj\Debug\net10.0\Modul7_Smarthouse.AssemblyInfo.cs
+D:\temp\Modul7_Smarthouse\Modul7_Smarthouse\obj\Debug\net10.0\Modul7_Smarthouse.csproj.CoreCompileInputs.cache
+D:\temp\Modul7_Smarthouse\Modul7_Smarthouse\obj\Debug\net10.0\Modul7_Smarthouse.sourcelink.json
+D:\temp\Modul7_Smarthouse\Modul7_Smarthouse\bin\Debug\net10.0\Modul7_Smarthouse.exe
+D:\temp\Modul7_Smarthouse\Modul7_Smarthouse\bin\Debug\net10.0\Modul7_Smarthouse.deps.json
+D:\temp\Modul7_Smarthouse\Modul7_Smarthouse\bin\Debug\net10.0\Modul7_Smarthouse.runtimeconfig.json
+D:\temp\Modul7_Smarthouse\Modul7_Smarthouse\bin\Debug\net10.0\Modul7_Smarthouse.dll
+D:\temp\Modul7_Smarthouse\Modul7_Smarthouse\bin\Debug\net10.0\Modul7_Smarthouse.pdb
+D:\temp\Modul7_Smarthouse\Modul7_Smarthouse\obj\Debug\net10.0\Modul7_Smarthouse.dll
+D:\temp\Modul7_Smarthouse\Modul7_Smarthouse\obj\Debug\net10.0\refint\Modul7_Smarthouse.dll
+D:\temp\Modul7_Smarthouse\Modul7_Smarthouse\obj\Debug\net10.0\Modul7_Smarthouse.pdb
+D:\temp\Modul7_Smarthouse\Modul7_Smarthouse\obj\Debug\net10.0\Modul7_Smarthouse.genruntimeconfig.cache
+D:\temp\Modul7_Smarthouse\Modul7_Smarthouse\obj\Debug\net10.0\ref\Modul7_Smarthouse.dll
