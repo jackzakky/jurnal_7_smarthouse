@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\temp\\Modul7_Smarthouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42AD7A5B-F9B8-4E7E-B91C-E7CF3BB9CF04}|Modul7_Smarthouse\\Modul7_Smarthouse.csproj|d:\\temp\\modul7_smarthouse\\modul7_smarthouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AD7A5B-F9B8-4E7E-B91C-E7CF3BB9CF04}|Modul7_Smarthouse\\Modul7_Smarthouse.csproj|solutionrelative:modul7_smarthouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 172,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\temp\\Modul7_Smarthouse\\Modul7_Smarthouse\\Program.cs",
+              "RelativeDocumentMoniker": "Modul7_Smarthouse\\Program.cs",
+              "ToolTip": "D:\\temp\\Modul7_Smarthouse\\Modul7_Smarthouse\\Program.cs",
+              "RelativeToolTip": "Modul7_Smarthouse\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:59:20.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
